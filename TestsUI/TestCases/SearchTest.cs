@@ -22,6 +22,8 @@ namespace TestsUI.TestCases
 
             GooglePage gPage = new GooglePage();
 
+            var teste = "";
+
             gPage.NavigateToMainPage();
 
             gPage.Search(searchText);

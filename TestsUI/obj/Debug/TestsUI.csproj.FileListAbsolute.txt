@@ -10,10 +10,6 @@ C:\Users\natan.gragefe\source\repos\TestsUI\TestsUI\obj\Debug\TestsUI.csproj.Cor
 C:\Users\natan.gragefe\source\repos\TestsUI\TestsUI\obj\Debug\TestsUI.dll
 C:\Users\natan.gragefe\source\repos\TestsUI\TestsUI\obj\Debug\TestsUI.pdb
 C:\Users\natan.gragefe\source\repos\TestsUI\TestsUI\obj\Debug\TestsUI.csprojResolveAssemblyReference.cache
-C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.csprojResolveAssemblyReference.cache
-C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.csproj.CoreCompileInputs.cache
-C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.dll
-C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.pdb
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\TestsUI.dll
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\TestsUI.pdb
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\nunit.framework.dll
@@ -22,4 +18,14 @@ C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\WebDriver.Suppo
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\nunit.framework.xml
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\WebDriver.xml
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\WebDriver.Support.xml
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.csproj.CoreCompileInputs.cache
 C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.csproj.CopyComplete
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.dll
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.pdb
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\obj\Debug\TestsUI.csprojResolveAssemblyReference.cache
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\nunit.engine.dll
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\nunit.engine.api.dll
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\Mono.Cecil.dll
+C:\Users\natan.gragefe\Desktop\TestUI-Selenium\TestsUI\bin\Debug\nunit.framework.pdb
