@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="commom\ReplaceUnicodeToString.cs" />
     <Compile Include="ContextDB\ContextDb.cs" />
     <Compile Include="Entidades\ConsoleBrowser.cs" />
     <Compile Include="Entidades\UrlsParaTeste.cs" />
